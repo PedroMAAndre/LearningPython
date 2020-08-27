@@ -11,7 +11,7 @@ def star_onTurtle(size=100, number_edges=5, repeat=1):
     if repeat == 1:
         size_change = 0
     else:
-        size_change = size/repeat * 0.2
+        size_change = size / repeat / number_edges
 
     for j in range(repeat):
         for i in range(number_edges):
