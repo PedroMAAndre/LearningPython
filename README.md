@@ -22,6 +22,7 @@ Turtle_Experiments.py
 
 Examples | Examples | Examples
 ------------ | ------------- | -------------
+- | - | -
 draw_clock | draw_hexagon | draw_home
 ![draw_clock](/Turtle%20Experiments/Images/draw_clock.jpg) | ![draw_hexagon](/Turtle%20Experiments/Images/draw_hexagon.jpg) | ![draw_home](/Turtle%20Experiments/Images/draw_home.jpg)
 draw_olympic_symbol | draw_radiactive | draw_smile
