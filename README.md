@@ -37,6 +37,15 @@ Some are my answers to books or online courses exercises.
 * DNA_pair
 
 
+![Print_Formating.py](/Print%20Formatting/Print_Formating.py)
+
+### Main Functions
+* [multiplication_table](/Print%20Formatting/Images/multiplication_table.jpg)
+* [table_miles_km](/Print%20Formatting/Images/table_miles_km.jpg)
+* [power2table](/Print%20Formatting/Images/power2table.jpg)
+* acronym
+
+
 Examples | Examples | Examples
 :---: | :---: | :---:
 '- | - | -
@@ -48,3 +57,6 @@ draw_sqares | draw_sqares_rot | draw_star
 ![draw_sqares](/Turtle%20Experiments/Images/draw_sqares.jpg) | ![draw_sqares_rot](/Turtle%20Experiments/Images/draw_sqares_rot.jpg) | ![draw_star](/Turtle%20Experiments/Images/draw_star.jpg)
 draw_yin_yang | elliptical_stamp | -
 ![draw_yin_yang](/Turtle%20Experiments/Images/draw_yin_yang.jpg) | ![elliptical_stamp](/Turtle%20Experiments/Images/elliptical_stamp.jpg)
+multiplication_table | table_miles_km | power2table
+![multiplication_table](/Print%20Formatting/Images/multiplication_table.jpg) | ![table_miles_km](/Print%20Formatting/Images/table_miles_km.jpg) |
+ ![power2table](/Print%20Formatting/Images/power2table.jpg)
