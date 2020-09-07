@@ -5,9 +5,9 @@ I will use this Repository to share code that I developed during my Python learn
 Some are my answers to books or online courses exercises.
 
 ## Files
-<p>![Turtle_Experiments.py](/Turtle%20Experiments/Turtle_Experiments.py)</p>
-![objects_operations.py](/Objects%20-%20Simple%20operations/objects_operations.py)
-![Print_Formating.py](/Print%20Formatting/Print_Formating.py)
+![Turtle_Experiments.py](/Turtle%20Experiments/Turtle_Experiments.py)<br>
+![objects_operations.py](/Objects%20-%20Simple%20operations/objects_operations.py)<br>
+![Print_Formating.py](/Print%20Formatting/Print_Formating.py)<br>
 
 
 ### Turtle_Experiments.py: Main Functions
