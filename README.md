@@ -21,10 +21,20 @@ Some are my answers to books or online courses exercises.
 * [elliptical_stamp](/Turtle%20Experiments/Images/elliptical_stamp.jpg)
 
 
-![objects_operations.py](/Turtle%20Experiments/Turtle_Experiments.py)
+![objects_operations.py](/Objects%20-%20Simple%20operations/objects_operations.py)
 
 ### Main Functions
-* d
+* encrypt_dist
+* encrypt_replacement_key
+* encrypt_even_odd
+* decrypt_even_odd
+* method_bisection1 | method_bisection2
+* show_polynomial
+* polynomial
+* triangle_area_heron
+* replace_vowels
+* random_DNA
+* DNA_pair
 
 
 Examples | Examples | Examples
