@@ -58,5 +58,4 @@ draw_sqares | draw_sqares_rot | draw_star
 draw_yin_yang | elliptical_stamp | -
 ![draw_yin_yang](/Turtle%20Experiments/Images/draw_yin_yang.jpg) | ![elliptical_stamp](/Turtle%20Experiments/Images/elliptical_stamp.jpg)
 multiplication_table | table_miles_km | power2table
-![multiplication_table](/Print%20Formatting/Images/multiplication_table.jpg) | ![table_miles_km](/Print%20Formatting/Images/table_miles_km.jpg) |
- ![power2table](/Print%20Formatting/Images/power2table.jpg)
+![multiplication_table](/Print%20Formatting/Images/multiplication_table.jpg) | ![table_miles_km](/Print%20Formatting/Images/table_miles_km.jpg) | ![power2table](/Print%20Formatting/Images/power2table.jpg)
