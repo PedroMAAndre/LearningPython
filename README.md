@@ -5,7 +5,7 @@ I will use this Repository to share code that I developed during my Python learn
 Some are my answers to books or online courses exercises.
 
 ## Files
-![Turtle_Experiments.py](/Turtle%20Experiments/Turtle_Experiments.py)
+<p>![Turtle_Experiments.py](/Turtle%20Experiments/Turtle_Experiments.py)</p>
 ![objects_operations.py](/Objects%20-%20Simple%20operations/objects_operations.py)
 ![Print_Formating.py](/Print%20Formatting/Print_Formating.py)
 
@@ -23,7 +23,7 @@ Some are my answers to books or online courses exercises.
 * [draw_yin_yang](/Turtle%20Experiments/Images/draw_yin_yang.jpg)
 * [elliptical_stamp](/Turtle%20Experiments/Images/elliptical_stamp.jpg)
 
-
+<br>
 
 ### objects_operations.py: Main Functions
 * encrypt_dist
@@ -38,7 +38,7 @@ Some are my answers to books or online courses exercises.
 * random_DNA
 * DNA_pair
 
-
+<br>
 
 ### Print_Formating.py: Main Functions
 * [multiplication_table](/Print%20Formatting/Images/multiplication_table.jpg)
@@ -46,7 +46,7 @@ Some are my answers to books or online courses exercises.
 * [power2table](/Print%20Formatting/Images/power2table.jpg)
 * acronym
 
-
+<br>
 
 Examples | Examples | Examples
 :---: | :---: | :---:
